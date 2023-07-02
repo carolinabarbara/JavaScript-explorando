@@ -1,3 +1,3 @@
 # JavaScript: explorando a linguagem
 
-Conteudo desenvolvida da aula de Javascrip pela alura
+Conteudo desenvolvida na aula de Javascript pela alura
